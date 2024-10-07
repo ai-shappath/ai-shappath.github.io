@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 	devtools: { enabled: false },
 	css: ['~/assets/css/index.css'],
 	app: {
-		baseURL: '/go-theses-24-bartek-pierscinski/',
+		baseURL: '/',
 		pageTransition: {
 			name: 'fade',
 			mode: 'out-in',
@@ -17,7 +17,7 @@ export default defineNuxtConfig({
 				{
 					rel: 'icon',
 					type: 'image/x-icon',
-					href: '/go-theses-24-bartek-pierscinski/favicon.ico',
+					href: 'favicon.ico',
 				},
 			],
 		},
