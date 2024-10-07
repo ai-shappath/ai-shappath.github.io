@@ -1,0 +1,160 @@
+{
+	"arr": [
+		{
+			"title": "Introduction",
+			"path": "/intro/intro",
+			"type": "chapter",
+			"index": "INTRO",
+			"questions": [
+				"How should I approach a research text circling around the topic of database and narrative opposition?",
+				"How does the design of the reader website relate to the topic of the text?"
+			]
+		},
+		{
+			"title": "The origin of my interest towards narrative methods",
+			"path": "/c1/1",
+			"type": "chapter",
+			"index": "C1.1",
+			"questions": [
+				"What is my history of interest in visual narrative methods?",
+				"What were my doubts towards Harmony Korine being the starting point of this text?"
+			]
+		},
+		{
+			"title": "“A Crack-Up at the Race Riots” against Lev Manovich’s Database and Narrative ",
+			"path": "/c1/2",
+			"type": "chapter",
+			"index": "C1.2",
+			"questions": [
+				"What sparked my fascination with unusual narrative methods, idiosyncrasy, and characterization?",
+				"How does Lev Manovich's article 'Database as a Symbolic Form' influence my thinking about idiosyncratic narratives, particularly in relation to 'A Crack-Up at the Race Riots?'"
+			]
+		},
+		{
+			"title": "The DNA of a Fox",
+			"path": "/c1/3",
+			"type": "chapter",
+			"index": "C1.3",
+			"questions": [
+				"Are there storytelling/writing helper methods?",
+				"What can be learned from interviews with Harmony Korine about fragmented narratives and database aesthetics?"
+			]
+		},
+		{
+			"title": "“Database Cinema”—Alternative narrative methods in film",
+			"path": "/c1/4",
+			"type": "chapter",
+			"index": "C1.4",
+			"questions": [
+				"What is an aspect of “A Crack-Up at the Race Riots?” that can be analyzed using database semiotic theories"
+			]
+		},
+		{
+			"title": "Manovich on Greenaway and Vertov",
+			"path": "/c1/5",
+			"type": "fig",
+			"index": "FIG1",
+			"questions": [
+				"What exactly are the methods used by Greenaway and Vertov?"
+			]
+		},
+		{
+			"title": "“Palindromes” and “Storytelling” as contemporary examples of meaningful experimentation in film",
+			"path": "/c1/6",
+			"type": "chapter",
+			"index": "C1.6",
+			"questions": [
+				"What can be an example of another filmmaker working with unusual, database-like narrative methods?",
+				"How does the movie 'Storytelling' use fragmented narrative deliberately to comment on representation in fiction?"
+			]
+		},
+		{
+			"title": "Korine’s “Jokes” as my illustration of Manovich’s “Database Cinema”",
+			"path": "/c1/7",
+			"type": "chapter",
+			"index": "C1.7",
+			"questions": [
+				"How does Harmony Korine's script for the unproduced movie 'Jokes' illustrate a database-like structure?",
+				"How can you translate the feeling of a stand-up performance into a movie script,?"
+			]
+		},
+		{
+			"title": "A Collection of Harmony Korine’s statements on scenes and plots",
+			"path": "/c1/8",
+			"type": "fig",
+			"index": "FIG2"
+		},
+		{
+			"title": "Scenes and characters as the focus point and the neglecting of the plot",
+			"path": "/c1/9",
+			"type": "chapter",
+			"index": "C1.9",
+			"questions": [
+				"What aspect of filmmaking is consistently emphasised by Korine in interviews?",
+				"How can you translate the feeling of a stand-up performance into a movie script,?"
+			]
+		},
+		{
+			"title": "Database Aesthetics and Post-Branding in Contemporary Design",
+			"path": "/c2/1",
+			"type": "chapter",
+			"index": "C2.1",
+			"questions": [
+				"What is the relevance of database aesthetics in contemporary design?"
+			]
+		},
+		{
+			"title": "The impact of The Brand",
+			"path": "/c2/2",
+			"type": "chapter",
+			"index": "C2.2",
+			"questions": [
+				"What is another kind of power steering contepmorary aesthetics and communication design?",
+				"What are certain distinct features of creative works in the realm of advertising and marketing?"
+			]
+		},
+		{
+			"title": "Benefits of Characterization",
+			"path": "/c2/3",
+			"type": "chapter",
+			"index": "C2.3",
+			"questions": [
+				"How to fight the problem of the advertising market being a breeding ground of interchangable cliches?",
+				"What are some creative methods for activating the viewer and creating engaging brand experiences?"
+			]
+		},
+		{
+			"title": "About “Stussy Holiday 23” by Francis Plummer",
+			"path": "/c2/4",
+			"type": "chapter",
+			"index": "C2.4",
+			"questions": [
+				"In what way does the introduction of concrete characters deepen the viewers understanding of the brand?"
+			]
+		},
+		{
+			"title": "About Parco Japan 2020 Spring/Summer Campaign",
+			"path": "/c2/5",
+			"type": "chapter",
+			"index": "C2.5",
+			"questions": [
+				"What are the potentials of leveraging the artistic aspect of the advertising campaign medium?"
+			]
+		},
+		{
+			"title": "About “Gucci Cruise 2020” by Harmony Korine",
+			"path": "/c2/6",
+			"type": "chapter",
+			"index": "C2.6",
+			"questions": [
+				"What else can be learned from the oeuvre of Harmony Korine, specifically from his rare instances of commercial work?"
+			]
+		},
+		{
+			"title": "Conclusion",
+			"path": "/c2/7",
+			"type": "chapter",
+			"index": "CONCLUSION"
+		}
+	]
+}
