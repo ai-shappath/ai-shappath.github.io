@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 	devtools: { enabled: false },
 	css: ['~/assets/css/index.css'],
 	app: {
-		baseURL: 'https://ai-shappath.github.io/',
+		baseURL: 'https://github.com/ai-shappath/ai-shappath.github.io/',
 		pageTransition: {
 			name: 'fade',
 			mode: 'out-in',
@@ -17,7 +17,7 @@ export default defineNuxtConfig({
 				{
 					rel: 'icon',
 					type: 'image/x-icon',
-					href: 'https://ai-shappath.github.io//favicon.ico',
+					href: 'https://github.com/ai-shappath/ai-shappath.github.io/favicon.ico',
 				},
 			],
 		},
