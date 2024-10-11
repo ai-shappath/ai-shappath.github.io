@@ -1,27 +1,27 @@
 {
 	"arr": [
 		{
-			"title": "Introduction",
+			"title": "कार्तिक",
 			"path": "/intro/intro",
 			"type": "chapter",
 			"index": "व्हिजन",
 			"questions": [
-				"How should I approach a research text circling around the topic of database and narrative opposition?",
-				"How does the design of the reader website relate to the topic of the text?"
+				"मराठी विकिपीडिया हा विकिपीडिया या मुक्त ऑनलाईन ज्ञानकोश प्रकल्पातील मराठी भाषेतला",
+				""
 			]
 		},
 		{
-			"title": "The origin of my interest towards narrative methods",
+			"title": "सई",
 			"path": "/c1/1",
 			"type": "chapter",
 			"index": "C1.1",
 			"questions": [
-				"What is my history of interest in visual narrative methods?",
-				"What were my doubts towards Harmony Korine being the starting point of this text?"
+				"मराठी विकिपीडिया हा विकिपीडिया या मुक्त ऑनलाईन ज्ञानकोश प्रकल्पातील मराठी भाषेतला",
+				""
 			]
 		},
 		{
-			"title": "“A Crack-Up at the Race Riots” against Lev Manovich’s Database and Narrative ",
+			"title": "“टेस्ट",
 			"path": "/c1/2",
 			"type": "chapter",
 			"index": "C1.2",
