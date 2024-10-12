@@ -1,6 +1,11 @@
 @font-face {
-	font-family: 'TNR';
-	src: url('/assets/TNR.woff2') format('woff2');
+	font-family: 'Vesper Libre';
+	src: url('/assets/VesperLibre-Bold.ttf') format('ttf');
+}
+
+@font-face {
+	font-family: 'Vesper Libre';
+	src: url('/assets/VesperLibre-Medium.ttf') format('ttf');
 }
 
 @font-face {
@@ -13,10 +18,10 @@
 	src: url('/assets/unica/Unica77LL-Medium.otf') format('opentype');
 }
 
-@font-face {
+/* @font-face {
 	font-family: 'Univers';
 	src: url('/assets/univers/UniversLTStd-BoldCn.otf') format('opentype');
-}
+} */
 
 @font-face {
 	font-family: 'F';
@@ -107,7 +112,7 @@ a {
 }
 
 .univers {
-	font-family: 'F';
+	font-family: 'Vesper Libre';
 	line-height: 80% !important;
 	/* line-height: initial !important; */
 	text-transform: uppercase;
