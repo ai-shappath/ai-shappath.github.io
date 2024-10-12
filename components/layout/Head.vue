@@ -1,7 +1,7 @@
 <template>
 	<header>
 		<section class="header-title univers -type-l">
-			Database aesthetics: into fragmented narratives and post-branding
+			An Intro to Modern AI : for Chefs, Medical Professionals, Primatologists, Police, Fishermen, High Schoolers, Chemists, Radio Hosts, Business Analysts, Marine Archaeologists, Lawyers, Artists, and all other Domain Experts
 		</section>
 	</header>
 </template>
