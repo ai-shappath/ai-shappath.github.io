@@ -10,52 +10,52 @@
 			]
 		},
 		{
-			"title": "What GenAI can and cannot do",
+			"title": "what Large Language Models can do",
 			"path": "/c1/1",
 			"type": "chapter",
-			"index": "GEN-AI",
+			"index": "C1.1",
 			"questions": [
 				"What sparked my fascination with unusual narrative methods, idiosyncrasy, and characterization?"
 			]
 		},
 		{
-			"title": "“The Ethics",
+			"title": "what Large Language Models (cannot) do",
 			"path": "/c1/2",
 			"type": "chapter",
-			"index": "ETHICS",
+			"index": "C1.2",
 			"questions": [
 				"What sparked my fascination with unusual narrative methods, idiosyncrasy, and characterization?"
 			]
 		},
 		{
-			"title": "The Basics",
+			"title": "Inner workings of LLMs",
 			"path": "/c1/3",
 			"type": "chapter",
-			"index": "BASICS",
+			"index": "C1.3",
 			"questions": [
 				"Are there storytelling/writing helper methods?"
 			]
 		},
 		{
-			"title": "“Guidelines for feasible AI applications",
+			"title": "Efficiency, Cost and Robustness",
 			"path": "/c1/4",
 			"type": "chapter",
-			"index": "GUIDE",
+			"index": "C1.4",
 			"questions": [
 				"What is an aspect of “A Crack-Up at the Race Riots?” that can be analyzed using database semiotic theories"
 			]
 		},
 		{
-			"title": "SELF-STUDY ROADMAP",
+			"title": "References",
 			"path": "/c1/5",
 			"type": "fig",
-			"index": "STUDY",
+			"index": "REF1",
 			"questions": [
 				"What exactly are the methods used by Greenaway and Vertov?"
 			]
 		},
 		{
-			"title": "“Palindromes” and “Storytelling” as contemporary examples of meaningful experimentation in film",
+			"title": "fine tuning for specific applications",
 			"path": "/c1/6",
 			"type": "chapter",
 			"index": "C1.6",
@@ -64,7 +64,7 @@
 			]
 		},
 		{
-			"title": "Korine’s “Jokes” as my illustration of Manovich’s “Database Cinema”",
+			"title": "Beyond Language (Part 1)",
 			"path": "/c1/7",
 			"type": "chapter",
 			"index": "C1.7",
@@ -73,22 +73,22 @@
 			]
 		},
 		{
-			"title": "A Collection of Harmony Korine’s statements on scenes and plots",
+			"title": "Beyond Language (Part 2)",
 			"path": "/c1/8",
-			"type": "fig",
-			"index": "FIG2"
+			"type": "chapter",
+			"index": "C1.8"
 		},
 		{
-			"title": "Scenes and characters as the focus point and the neglecting of the plot",
+			"title": "Leading Researchers",
 			"path": "/c1/9",
 			"type": "chapter",
-			"index": "C1.9",
+			"index": "REF2",
 			"questions": [
 				"What aspect of filmmaking is consistently emphasised by Korine in interviews?"
 			]
 		},
 		{
-			"title": "Database Aesthetics and Post-Branding in Contemporary Design",
+			"title": "the ethics",
 			"path": "/c2/1",
 			"type": "chapter",
 			"index": "C2.1",
@@ -97,7 +97,7 @@
 			]
 		},
 		{
-			"title": "The impact of The Brand",
+			"title": "the basics",
 			"path": "/c2/2",
 			"type": "chapter",
 			"index": "C2.2",
@@ -106,7 +106,7 @@
 			]
 		},
 		{
-			"title": "Benefits of Characterization",
+			"title": "leveraging domain expertise",
 			"path": "/c2/3",
 			"type": "chapter",
 			"index": "C2.3",
@@ -115,7 +115,7 @@
 			]
 		},
 		{
-			"title": "About “Stussy Holiday 23” by Francis Plummer",
+			"title": "Guidelines for feasible AI applications",
 			"path": "/c2/4",
 			"type": "chapter",
 			"index": "C2.4",
@@ -124,19 +124,19 @@
 			]
 		},
 		{
-			"title": "About Parco Japan 2020 Spring/Summer Campaign",
+			"title": "Self study roadmap",
 			"path": "/c2/5",
-			"type": "chapter",
-			"index": "C2.5",
+			"type": "fig",
+			"index": "STUDY",
 			"questions": [
 				"What are the potentials of leveraging the artistic aspect of the advertising campaign medium?"
 			]
 		},
 		{
-			"title": "About “Gucci Cruise 2020” by Harmony Korine",
+			"title": "MISC",
 			"path": "/c2/6",
-			"type": "chapter",
-			"index": "C2.6",
+			"type": "fig",
+			"index": "MISC",
 			"questions": [
 				"What else can be learned from the oeuvre of Harmony Korine, specifically from his rare instances of commercial work?"
 			]
@@ -144,7 +144,7 @@
 		{
 			"title": "BUY",
 			"path": "/c2/7",
-			"type": "chapter",
+			"type": "fig",
 			"index": "BUY"
 		}
 	]
