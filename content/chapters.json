@@ -6,43 +6,42 @@
 			"type": "chapter",
 			"index": "ABOUT",
 			"questions": [
-
 			]
 		},
 		{
-			"title": "what Large Language Models can do",
+			"title": "LLM Wins",
 			"path": "/c1/1",
 			"type": "chapter",
 			"index": "C1.1",
 			"questions": [
-
+				"What Large Language Models can do"
 			]
 		},
 		{
-			"title": "what Large Language Models (cannot) do",
+			"title": "LLM Fails",
 			"path": "/c1/2",
 			"type": "chapter",
 			"index": "C1.2",
 			"questions": [
-
+				"What Large Language Models (cannot) do"
 			]
 		},
 		{
-			"title": "Inner workings of LLMs",
+			"title": "Behind the Scenes",
 			"path": "/c1/3",
 			"type": "chapter",
 			"index": "C1.3",
 			"questions": [
-
+				"How do Large Language Models work?"
 			]
 		},
 		{
-			"title": "Efficiency, Cost and Robustness",
+			"title": "Efficiency and Cost",
 			"path": "/c1/4",
 			"type": "chapter",
 			"index": "C1.4",
 			"questions": [
-
+				"When can we use Small Language Models?"
 			]
 		},
 		{
@@ -51,15 +50,15 @@
 			"type": "fig",
 			"index": "REF1",
 			"questions": [
-
 			]
 		},
 		{
-			"title": "fine tuning for specific applications",
+			"title": "Fine Tuning",
 			"path": "/c1/6",
 			"type": "chapter",
 			"index": "C1.6",
 			"questions": [
+				"Teaching LLMs to do specific tasks"
 			]
 		},
 		{
@@ -68,13 +67,17 @@
 			"type": "chapter",
 			"index": "C1.7",
 			"questions": [
+				"Image  Video  Music"
 			]
 		},
 		{
 			"title": "Beyond Language (Part 2)",
 			"path": "/c1/8",
 			"type": "chapter",
-			"index": "C1.8"
+			"index": "C1.8",
+			"questions": [
+				"Natural Sciences"
+			]
 		},
 		{
 			"title": "Leading Researchers",
@@ -82,6 +85,7 @@
 			"type": "fig",
 			"index": "REF2",
 			"questions": [
+				"We standing on the shoulders of giants"
 			]
 		},
 		{
@@ -90,6 +94,7 @@
 			"type": "chapter",
 			"index": "C2.1",
 			"questions": [
+				"Learning from (past) data inherently perpetuates stereotypes"
 			]
 		},
 		{
@@ -98,6 +103,7 @@
 			"type": "chapter",
 			"index": "C2.2",
 			"questions": [
+				"The foundations of AI, Machine Learning, Data Science"
 			]
 		},
 		{
@@ -106,14 +112,16 @@
 			"type": "chapter",
 			"index": "C2.3",
 			"questions": [
+				"AI is steroids for your domain expertise"
 			]
 		},
 		{
-			"title": "Guidelines for feasible AI applications",
+			"title": "Guidelines and Case Studies",
 			"path": "/c2/4",
 			"type": "chapter",
 			"index": "C2.4",
 			"questions": [
+				"How to build feasible AI applications?"
 			]
 		},
 		{
@@ -122,6 +130,7 @@
 			"type": "fig",
 			"index": "STUDY",
 			"questions": [
+				"If you wish to learn it all from scratch"
 			]
 		},
 		{
@@ -130,6 +139,7 @@
 			"type": "fig",
 			"index": "MISC",
 			"questions": [
+				"Important stuff which doesn't fit any other box"
 			]
 		},
 		{
