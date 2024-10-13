@@ -6,7 +6,7 @@
 				<div class="univers -type-l">About Stussy “Holiday '23”</div>
 				<div class="questions">
 					<div v-for="(q, i) in questions" class="question">
-						{{ '[' + (i + 1) + '] ' + q }}
+						{{ q }}
 					</div>
 				</div>
 			</div>

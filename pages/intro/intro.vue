@@ -6,7 +6,7 @@
 				<div class="univers -type-l">ABOUT COURSE</div>
 				<div class="questions">
 					<div v-for="(q, i) in questions" class="question">
-						{{ '[' + (i + 1) + '] ' + q }}
+						{{ q }}
 					</div>
 				</div>
 			</div>
@@ -20,6 +20,7 @@
 					We should start collecting data for ourselves. 
 					We will teach you how to use your domain expertise to do so.
 					Moravecs Paradox.
+					Website Inspired by: 
 				</p>
 				<p>
 					who is this course for?

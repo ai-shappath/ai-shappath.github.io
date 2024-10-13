@@ -5,7 +5,7 @@
 			<div class="title univers -type-m">{{ nav.prev.title }}</div>
 			<div v-if="nav.prev.questions" class="questions">
 				<div v-for="(q, i) in nav.prev.questions" class="question">
-					{{ '[' + (i + 1) + '] ' + q }}
+					{{ q }}
 				</div>
 			</div>
 		</NuxtLink>
@@ -16,7 +16,7 @@
 			</div>
 			<div v-if="nav.next.questions" class="questions">
 				<div v-for="(q, i) in nav.next.questions" class="question">
-					{{ '[' + (i + 1) + '] ' + q }}
+					{{ q }}
 				</div>
 			</div>
 		</NuxtLink>
