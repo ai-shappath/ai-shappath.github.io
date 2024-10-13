@@ -9,7 +9,7 @@
 				<div class="title">{{ c.title }}</div>
 				<div class="index">
 					<div v-for="(q, i) in c.questions" class="question">
-						{{ '[' + (i + 1) + '] ' + q }}
+						{{ q }}
 					</div>
 					{{ c.index }}
 				</div>
@@ -24,7 +24,7 @@
 				<div class="title">{{ c.title }}</div>
 				<div class="index">
 					<div v-for="(q, i) in c.questions" class="question">
-						{{ '[' + (i + 1) + '] ' + q }}
+						{{ q }}
 					</div>
 					{{ c.index }}
 				</div>
@@ -39,7 +39,7 @@
 				<div class="title">{{ c.title }}</div>
 				<div class="index">
 					<div v-for="(q, i) in c.questions" class="question">
-						{{ '[' + (i + 1) + '] ' + q }}
+						{{ q }}
 					</div>
 					{{ c.index }}
 				</div>
@@ -54,7 +54,7 @@
 				<div class="title">{{ c.title }}</div>
 				<div class="index">
 					<div v-for="(q, i) in c.questions" class="question">
-						{{ '[' + (i + 1) + '] ' + q }}
+						{{ q }}
 					</div>
 					{{ c.index }}
 				</div>
