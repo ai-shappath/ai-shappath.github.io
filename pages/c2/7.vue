@@ -15,35 +15,18 @@
 		<main>
 			<div class="content">
 				<p>
-					To conclude this study, let us step back and take a look at its
-					progression. First I introduced Harmony Korine and his oeuvre as an
-					incentive to my die-hard curiosity towards fragmented narratives and
-					the non-linear approach to storytelling. After that, I brought forward
-					an article of Lev Manovich that provided for a didactical backdrop to
-					the further exploration of the topic of narrative–database opposition
-					and the contemporary tendency for utilising database oriented
-					arrangements in media and design, which I illustrated with examples
-					from both Harmony Korine's writing heritage and contemporary cinema.
-					In the second part, I proceeded onto linking the aforementioned with
-					the theories of post-branding, putting emphasis on the position of the
-					brand in contemporary communication design. Finally, I described works
-					that are exemplifying an innovative use of database aesthetics and
-					character-driven narratives to create more engaging and dynamic brand
-					experiences.
+					📆 Learn at your pace
+					✅ Highest Quality of Teaching
+					⌛ 10 hours of Video Content
+					🌐 Curated Learning Material
 				</p>
 
 				<p>
-					I believe that an analytical exploration of what I dove into in this
-					text can benefit designers and creators providing them with a strong
-					framework for creating works that intrigue and activate viewers. Being
-					acquainted with database aesthetic means embracing interactive,
-					participatory and customised experiences; it brings us one step closer
-					to taking better directions in designing communication.
+					You agree to the terms and conditions here.
 				</p>
 				
 				<!-- Razorpay Button added here -->
 				<div class="razorpay-button-container">
-					<h2>Support this research</h2>
 					<RazorpayButton paymentButtonId="pl_P8U09V5iLyWssS" />
 				</div>
 			</div>
@@ -56,7 +39,7 @@
 
 <script setup>
 
-import RazorpayButton from './RazorpayButton.vue'
+import RazorpayButton from '../../components/elements/RazorpayButton.vue'
 
 definePageMeta({
 	layout: 'default',
