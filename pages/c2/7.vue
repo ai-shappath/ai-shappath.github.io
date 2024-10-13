@@ -5,7 +5,7 @@
 			<div class="title">
 				<div class="univers -type-l">Conclusion</div>
 				<div class="questions">
-					<div v-for="(q, i) in questions" class="question">
+					<div v-for="(q, i) in questions" :key="i" class="question">
 						{{ q }}
 					</div>
 				</div>
@@ -23,7 +23,7 @@
 					the further exploration of the topic of narrative–database opposition
 					and the contemporary tendency for utilising database oriented
 					arrangements in media and design, which I illustrated with examples
-					from both Harmony Korine’s writing heritage and contemporary cinema.
+					from both Harmony Korine's writing heritage and contemporary cinema.
 					In the second part, I proceeded onto linking the aforementioned with
 					the theories of post-branding, putting emphasis on the position of the
 					brand in contemporary communication design. Finally, I described works
@@ -40,25 +40,46 @@
 					participatory and customised experiences; it brings us one step closer
 					to taking better directions in designing communication.
 				</p>
+				
+				<!-- Razorpay Button added here -->
+				<div class="razorpay-button-container">
+					<h2>Support this research</h2>
+					<RazorpayButton paymentButtonId="pl_P8U09V5iLyWssS" />
+				</div>
 			</div>
 			<div class="refs"></div>
+			
 		</main>
-		<ElementsNavigation :current="currentRoute.path"></ElementsNavigation>
+		<!-- <ElementsNavigation :current="currentRoute.path"></ElementsNavigation> -->
 	</div>
 </template>
 
 <script setup>
-	definePageMeta({
-		layout: 'default',
-	})
 
-	const { width } = useWindowSize()
+import RazorpayButton from './RazorpayButton.vue'
 
-	const { currentRoute } = useRouter()
-	const questions = await getQuestions(currentRoute.value.path)
+definePageMeta({
+	layout: 'default',
+})
 
-	onMounted(() => {
-		const paragraphs = document.querySelectorAll('p')
-		countParagraphs(paragraphs, currentRoute.value.path)
-	})
+const { width } = useWindowSize()
+
+const { currentRoute } = useRouter()
+const questions = await getQuestions(currentRoute.value.path)
+
+onMounted(() => {
+	const paragraphs = document.querySelectorAll('p')
+	countParagraphs(paragraphs, currentRoute.value.path)
+})
 </script>
+
+<style scoped>
+.razorpay-button-container {
+	margin-top: 2rem;
+	text-align: center;
+}
+
+.razorpay-button-container h2 {
+	margin-bottom: 1rem;
+}
+</style>
