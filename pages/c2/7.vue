@@ -16,11 +16,17 @@
 			<div class="content">
 				<p>
 					📆 Learn at your pace
-					✅ Highest Quality of Teaching
-					⌛ 10 hours of Video Content
-					🌐 Curated Learning Material
 				</p>
 
+				<p>
+					✅ Highest Quality of Teaching
+				</p>
+				<p>
+					⌛ 10 hours of Video Content
+				</p>
+				<p>
+					🌐 Curated Learning Material
+				</p>
 				<p>
 					You agree to the terms and conditions here.
 				</p>

@@ -15,22 +15,32 @@
 		<main>
 			<div class="content">
 				<p>
-					what is the vision?
-					Unlock information. Highest quality of teaching in Regional Languages.
-					We should start collecting data for ourselves. 
-					We will teach you how to use your domain expertise to do so.
-					Moravecs Paradox.
-					Website Inspired by: 
+					what is the vision?<br />
+					Unlock information. Highest quality of teaching in Regional Languages.<br />
+					We should start collecting data for ourselves. <br />
+					We will teach you how to use your domain expertise to do so.<br />
+					Moravecs Paradox.<br />
+					Website Inspired by: <br />
+					https://kabk.github.io/go-theses-24-bartek-pierscinski/
 				</p>
+				
+				<!-- include quotes
+				do not make it exciting for the experts, make it exciting for the beginners too!
+				curiosity and excitingness of the topic
+				random cool detours
+				it's not about me. it about the message to be conveyed. -->
+
 				<p>
 					who is this course for?
 					For all domain experts.
 				</p>
 				<p>
-					About teacher
-					About me
-					Videos and Reviews
-					My Website
+					for QA - join Discord?
+				</p>
+				<p>
+					About teacher<br />
+					Videos and Reviews<br />
+					My Website<br />
 				</p>
 			</div>
 			<div class="refs">
