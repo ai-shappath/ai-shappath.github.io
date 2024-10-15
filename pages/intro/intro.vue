@@ -28,7 +28,17 @@
 				do not make it exciting for the experts, make it exciting for the beginners too!
 				curiosity and excitingness of the topic
 				random cool detours
-				it's not about me. it about the message to be conveyed. -->
+				it's not about me. it about the message to be conveyed. 
+				Say what's there to learn in this video
+
+				Follow script,
+				Many cuts,
+				Show what's cool
+				Show papers and references
+				(If you wanna learn more check out this playlist)
+
+				Red Circle around mouse
+				-->
 
 				<p>
 					who is this course for?
