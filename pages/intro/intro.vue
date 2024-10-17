@@ -48,6 +48,8 @@
 				<p>
 					who is this course for?
 					For all domain experts.
+					Use Cases of GenAI: LLMs, Protein Design, X2Y(but practical) Material Science, YoLo, law, agri, Specific problems in multiple domians.proxy function(NN) for something which is expensive to measure!
+					Common themes:  Supervised Learning, Active Learning loop, Generative AI, Unsupervised Learning (CLIP)
 				</p>
 				<p>
 					for QA - join Discord?
