@@ -37,7 +37,7 @@
 							9) /
 						16
 					"
-					src="https://www.youtube.com/watch?v=yIt8vgfGyog&list=PLAXC54QmQTfz5Pk_3yq9RfLaU0b13lWgF&index=5"
+					src="https://www.youtube.com/watch?v=yIt8vgfGyog"
 					title="YouTube video player"
 					frameborder="0"
 					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
