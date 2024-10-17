@@ -20,6 +20,10 @@
 					We should start collecting data for ourselves. <br />
 					We will teach you how to use your domain expertise to do so.<br />
 					Moravecs Paradox.<br />
+					<br />
+					Average user will have a minimal Digital Literacy Requirement<br />
+					where possible show things on the cellphones<br />
+					be concise, but teach easy things like how to open a website etc<br />	
 					Website Inspired by: <br />
 					https://kabk.github.io/go-theses-24-bartek-pierscinski/
 				</p>
@@ -30,7 +34,8 @@
 				random cool detours
 				it's not about me. it about the message to be conveyed. 
 				Say what's there to learn in this video
-
+				
+				Simple Concise Jargonless
 				Follow script,
 				Many cuts,
 				Show what's cool
