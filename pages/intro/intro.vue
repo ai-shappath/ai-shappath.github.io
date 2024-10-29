@@ -15,6 +15,7 @@
 		<main>
 			<div class="content">
 				<p>
+					<br />
 					The vision of this course is to teach you, the domain expert, what Artificial Intelligence(AI) can and cannot do.
 					You will learn fundamental AI concepts, the necessary vocabulary, and a structured way of thinking to translate your domain expertise into feasible AI solutions.
 					<br />
