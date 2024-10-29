@@ -3,9 +3,10 @@
 		{
 			"title": "ABOUT COURSE",
 			"path": "/intro/intro",
-			"type": "chapter",
+			"type": "fig",
 			"index": "ABOUT",
 			"questions": [
+				""
 			]
 		},
 		{
@@ -45,11 +46,12 @@
 			]
 		},
 		{
-			"title": "References",
+			"title": "ABOUT TEACHER",
 			"path": "/c1/5",
 			"type": "fig",
-			"index": "REF1",
+			"index": "TEACHER",
 			"questions": [
+				""
 			]
 		},
 		{
@@ -83,7 +85,7 @@
 			"title": "Leading Researchers",
 			"path": "/c1/9",
 			"type": "fig",
-			"index": "REF2",
+			"index": "REF",
 			"questions": [
 				"We standing on the shoulders of giants"
 			]

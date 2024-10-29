@@ -3,7 +3,7 @@
 		<NuxtLink to="/" class="close">CLOSE</NuxtLink>
 		<header class="">
 			<div class="title">
-				<div class="univers -type-l">Manovich on Greenaway and Vertov</div>
+				<div class="univers -type-l">About Teacher</div>
 				<div class="questions">
 					<div v-for="(q, i) in questions" class="question">
 						{{ q }}
@@ -14,65 +14,11 @@
 		</header>
 		<main>
 			<div class="content">
-				<!-- <figure>
-					<img src="/content/c/1/drama.png" alt="" />
-					<figcaption>
-						From "History of the World: Part 1" (1981), Dir. Mel Brooks
-					</figcaption>
-				</figure> -->
-
-				<blockquote>
-					<div class="quote">
-						Peter Greenaway, one of the few prominent film directors concerned
-						with expanding cinema's language, once complained that "the linear
-						pursuit—one story at a time told chronologically—is the standard
-						format of cinema." Pointing out that cinema lags behind modern
-						literature in experimenting with narrative, he asked: "Could it not
-						travel on the road where Joyce, Eliot, Borges and Perec have already
-						arrived?" While Greenaway is right to direct filmmakers to more
-						innovative literary narratives, new media artists working on the
-						database-problem can learn from cinema "as it is." For cinema
-						already exists right at the intersection between database and
-						narrative. We can think of all the material accumulated during
-						shooting as forming a database, especially since the shooting
-						schedule usually does not follow the narrative of the film but is
-						determined by production logistics. During editing, the editor
-						constructs a film narrative out of this database, creating a unique
-						trajectory through the conceptual space of all possible films that
-						could have been constructed. From this perspective, every filmmaker
-						engages with the database–narrative problem in very film, although
-						only a few have done so self-consciously.<br /><br />Many of
-						Greenaway’s films progress by recounting a list of items, a catalog
-						without any inherent order (for example the different books in
-						Prospero’s books). Working to undermine a linear narrative,
-						Greenaway uses different systems to order his films. He wrote about
-						this approach: "If a numerical, alphabetic colour-coding system is
-						employed, it is done deliberately as a device, a con-struct, to
-						counteract, dilute, augment or complement the all-pervading
-						obsessive cinema interest in plot, in narrative, in the I'm now
-						going to tell you a story' school of film-making." His favourite
-						system is numbers. The sequence of numbers acts as a narrative shell
-						that "convinces" the viewer that she is watching a narrative. In
-						reality, the scenes that follow one another are not connected in any
-						logical way. By using numbers, Greenaway "wraps" a minimal narrative
-						around a database. Although Greenaway's database logic was already
-						present in his "avant-garde" films such as The Falls (1980), it has
-						also structured his "commercial" films. The Draughtsman's Contract
-						(1982) is centered around twelve drawings in the process of being
-						made by a drafts-man. They do not form any order; Greenaway
-						emphasizes this by having the draftsman work on a few drawings at
-						once.
-					</div>
-				</blockquote>
-			</div>
-			<div class="refs">
-				<ref>
-					<div class="index">[1.1]</div>
-					<div class="content">
-						Manovich, Lev. “Database Cinema.” The Language of New Media, The MIT
-						Press, Cambridge, Massachusetts, 2001.
-					</div>
-				</ref>
+				<p>Kartik's <a href='https://www.youtube.com/channel/UCq5hj2YogHzxCqqyjou2i8A' style='text-decoration: underline;'>educational videos on AI/ML </a> have been inspired by, and subsequently acknowledged by the distinguished professors and researchers: <a href='https://www.linkedin.com/in/tacocohen/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl' style='text-decoration: underline;'>Taco Cohen</a> (Meta AI Research), <a href='https://ebekkers.github.io/' style='text-decoration: underline;'>Erik Bekkers</a> (University of Amsterdam), <a href='https://cs.uwaterloo.ca/~shai/index.html' style='text-decoration: underline;'>Shai Ben-David</a> (University of Toronto), and <a href='https://www.cis.upenn.edu/~alur/' style='text-decoration: underline;'>Rajeev Alur</a> (University of Pennsylvania). He has also been extremely lucky to sail the mentor-ship captained by <a href='https://www.linkedin.com/in/bhasi-nair-579000213/?originalSubdomain=uk' style='text-decoration: underline;'>Bhasi Nair</a> and <a href='https://harris.uchicago.edu/directory/abhilash-mishra' style='text-decoration: underline;'>Abhilash Mishra</a> at <a href='https://www.equitechfutures.com/' style='text-decoration: underline;'>Equitech Futures</a>.<br /><br />
+				He is currently teaching AIs to do Natural Language Processing and Vision Tasks at <a href='https://www.flame.edu.in/' style='text-decoration: underline;'>FLAME University</a>  in the domain of Historical Manuscript Digitization.<br /><br />
+				His current interests are in exposing non-technical audiences to modern AI tools, making education of the highest quality accessible to all (in multiple languages), and studying Geometric Deep Learning.<br /><br />
+				He received his Bachelor's Degree in Mechanical Engineering from the Maharashtra Institute of Technology, Pune in affiliation with Savitribai Phule Pune University.<br /><br />
+				Find more information about Kartik at his <a href='https://kartikchincholikar.github.io/' style='text-decoration: underline;'>personal website</a>.</p>
 			</div>
 		</main>
 		<ElementsNavigation :current="currentRoute.path"></ElementsNavigation>
