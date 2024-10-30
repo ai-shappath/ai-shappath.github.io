@@ -14,7 +14,7 @@
 		</header>
 		<main>
 			<div class="content">
-				<p>
+				<p><br/>
 					📆 Learn at your pace
 				</p>
 
