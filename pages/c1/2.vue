@@ -17,45 +17,22 @@
 		<main>
 			<div class="content">
 				<p>
-					We will study ways in which humans are different than LLMs, and how we can work together.
+				<br />
+					In this chapter we will understand the kinds of tasks a Large Language Model(LLM) cannot do. 
+					We will look at examples which elucidate the various ways in which LLMs fail.
+				<br />
 				</p>
-				<figure>
-					<img src="/content/c/1/drama.png" alt="" />
-					<figcaption>
-						From "History of the World: Part 1" (1981), Dir. Mel Brooks
-					</figcaption>
-				</figure>
-				<p>
-					No Data, No intelligent LLMs. It might crack the Law exam, but will it crack Odissha Public Service Exam? Or analyse Mimamsa literature?
+				
+				<p><br/><br/>
+				<a href='https://www.youtube.com/watch?v=gRJgqSbk71o' style='text-decoration: underline;'>AI's challenge of Understanding the world</a>: by Melanie Mitchell<br/><br/>
+				<a href='https://www.youtube.com/watch?v=dbheitnurg8' style='text-decoration: underline;'>Demystifying LLMs</a>: by Subbarao Kambhampati<br/><br/>
+				<a href='https://wac.colostate.edu/repository/collections/continuing-experiments/january-2024/ai-literacy/variation-in-the-writing-outputs-of-first-year-writing-students-and-generative-ai/' style='text-decoration: underline;'>Writing Essays</a>: Variation in the Writing Outputs of First-year Writing Students and Generative AI<br/><br/>
+				<a href='https://www.reddit.com/r/SubSimulatorGPT2/top/?t=all' style='text-decoration: underline;'>: When LLMs talk to each other</a><br/><br/>
+				<a href='https://jailbreaking-llms.github.io/' style='text-decoration: underline;'>Jailbreak 1</a>: Jailbreaking Black Box Large Language Models in Twenty Queries<br/><br/>
+				<a href='https://arxiv.org/pdf/2305.13860' style='text-decoration: underline;'>Jailbreak 2</a>: Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study<br/><br/>
+				
+				
 				</p>
-				<p>
-					Math.
-				</p>
-				<p>
-					Can LLMs fix your tire,make a meal, light fire, make a hut, filter water, stitch clothes, decide which mushroom to eat?
-				</p>
-				<blockquote>
-					<div class="quote">
-						Literary and cinematic narratives work in the same way [as natural
-						language]. Particular words, sentences, shots, scenes which make up
-						a narrative have a material existence; other elements which form an
-						imaginary world of an author or a particular literary or cinematic
-						style and which could have appeared instead exist only virtually.
-						Put differently, the database of choices from which narrative is
-						constructed (the paradigm) is implicit; while the actual narrative
-						(the syntagm) is explicit.
-					</div>
-					<div class="caption">Lev Manovich</div>
-				</blockquote>
-			</div>
-			<div class="refs">
-				<ref>
-					<div class="index">[1]</div>
-					<div class="content">
-						Barthes, Roland. "Elements of Semiology." Hill and Wang a Division
-						of Farrar Straus and Giroux, 1977.
-					</div>
-				</ref>
 			</div>
 		</main>
 		<ElementsNavigation :current="currentRoute.path"></ElementsNavigation>
