@@ -28,7 +28,7 @@
 						From "History of the World: Part 1" (1981), Dir. Mel Brooks
 					</figcaption>
 				</figure> -->
-				<p>Website design <a href="https://kabk.github.io/go-theses-24-bartek-pierscinski/" style="text-decoration: underline;">inspiration</a>.</p>
+				<p>The design of this website has been instpired by <a href="https://kabk.github.io/go-theses-24-bartek-pierscinski/" style="text-decoration: underline;">this</a> website.</p>
 			</div>
 		</main>
 		<ElementsNavigation :current="currentRoute.path"></ElementsNavigation>
