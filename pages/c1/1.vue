@@ -31,7 +31,7 @@
 				<a href='https://build.nvidia.com/nvidia/nemotron-4-mini-hindi-4b-instruct' style='text-decoration: underline;'>Nemotron Hindi</a>: A Language Model taylored for the Hindi Language<br/><br/>
 				<a href='https://huggingface.co/l3cube-pune/marathi-gpt-gemma-7b' style='text-decoration: underline;'>Gemma Marathi</a>: A Language Model taylored for the Marathi Language<br/><br/>
 				<a href='https://aistudio.google.com/prompts/new_chat' style='text-decoration: underline;'>Google AI Studio</a>: for quick fine tuning<br/><br/>
-				<a href='https://textfx.withgoogle.com/' style='text-decoration: underline;'>TextFx</a>: AI-powered tools for rappers, writers and wordsmithss><br/>
+				<a href='https://textfx.withgoogle.com/' style='text-decoration: underline;'>TextFx</a>: AI-powered tools for rappers, writers and wordsmiths><br/><br/>
 				<a href='https://gemini.google.com/gems/view' style='text-decoration: underline;'>Google Gemini</a>: Sync accross your Google workspace<br/><br/>
 				<a href='https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/' style='text-decoration: underline;'>CrewAI Multi Agent Systems</a>: Automate complex tasks which take in fuzzy inputs<br/><br/>
 				</p>
