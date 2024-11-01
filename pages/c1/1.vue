@@ -26,14 +26,14 @@
 				
 				<p><br/><br/>
 				<a href='https://notebooklm.google/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>NotebookLM</a>: For chatting with books and webpages<br/><br/>
-				<a href='https://claude.ai/new' style='text-decoration: underline;'>Claude</a>: For chatting and "translating" one thing into another<br/><br/>
-				<a href='https://goblin.tools/' style='text-decoration: underline;'>Goblin Tools</a>: A set of very useful tools<br/><br/>
-				<a href='https://build.nvidia.com/nvidia/nemotron-4-mini-hindi-4b-instruct' style='text-decoration: underline;'>Nemotron Hindi</a>: A Language Model taylored for the Hindi Language<br/><br/>
-				<a href='https://huggingface.co/l3cube-pune/marathi-gpt-gemma-7b' style='text-decoration: underline;'>Gemma Marathi</a>: A Language Model taylored for the Marathi Language<br/><br/>
-				<a href='https://aistudio.google.com/prompts/new_chat' style='text-decoration: underline;'>Google AI Studio</a>: for quick fine tuning<br/><br/>
-				<a href='https://textfx.withgoogle.com/' style='text-decoration: underline;'>TextFx</a>: AI-powered tools for rappers, writers and wordsmiths><br/><br/>
-				<a href='https://gemini.google.com/gems/view' style='text-decoration: underline;'>Google Gemini</a>: Sync accross your Google workspace<br/><br/>
-				<a href='https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/' style='text-decoration: underline;'>CrewAI Multi Agent Systems</a>: Automate complex tasks which take in fuzzy inputs<br/><br/>
+				<a href='https://claude.ai/new' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Claude</a>: For chatting and "translating" one thing into another<br/><br/>
+				<a href='https://goblin.tools/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Goblin Tools</a>: A set of very useful tools<br/><br/>
+				<a href='https://build.nvidia.com/nvidia/nemotron-4-mini-hindi-4b-instruct' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Nemotron Hindi</a>: A Language Model taylored for the Hindi Language<br/><br/>
+				<a href='https://huggingface.co/l3cube-pune/marathi-gpt-gemma-7b' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Gemma Marathi</a>: A Language Model taylored for the Marathi Language<br/><br/>
+				<a href='https://aistudio.google.com/prompts/new_chat' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Google AI Studio</a>: for quick fine tuning<br/><br/>
+				<a href='https://textfx.withgoogle.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>TextFx</a>: AI-powered tools for rappers, writers and wordsmiths><br/><br/>
+				<a href='https://gemini.google.com/gems/view' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Google Gemini</a>: Sync accross your Google workspace<br/><br/>
+				<a href='https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>CrewAI Multi Agent Systems</a>: Automate complex tasks which take in fuzzy inputs<br/><br/>
 				</p>
 			</div>
 		</main>

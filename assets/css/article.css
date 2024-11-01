@@ -49,14 +49,14 @@
 			}
 
 			&:hover {
-				outline: var(--color4) 1px solid;
+				outline: black 1px solid;
 				& > .questions {
 					opacity: 1;
 				}
 			}
 
 			@media screen and (max-width: 600px) {
-				outline: var(--color4) 1px solid;
+				outline: black 1px solid;
 				& > .questions {
 					opacity: 1 !important;
 				}
