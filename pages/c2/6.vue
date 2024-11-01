@@ -17,10 +17,16 @@
 		<main>
 			<div class="content">
 				<p>
-					Some exceptional talks I've watched:
+				<br />
+					While Large Language Models demostrate amazing capabilities, deploying them in a production environment is tricky - we need to think about energy consumption, data privacy, training cost and reliability. 
+				<br />
+				</p>
+				
+				<p><br/><br/>
+				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>				
 				</p>
 
-				<iframe
+				<!-- <iframe
 					:width="
 						!mobile
 							? !mobile
@@ -42,10 +48,9 @@
 					frameborder="0"
 					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 					allowfullscreen
-				></iframe>
+				></iframe> -->
 
 			</div>
-			<div class="refs"></div>
 		</main>
 		<ElementsNavigation :current="currentRoute.path"></ElementsNavigation>
 	</div>

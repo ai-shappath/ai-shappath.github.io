@@ -15,16 +15,15 @@
 		<main>
 			<div class="content">
 				<p>
-					The “Holiday ‘23” video directed by Francis Plummer represents an
-					interesting perspective on the usage of database aesthetics,
-					fragmented narrative and character creation in a creative campaign
-					commissioned by a clothing brand. The video could be described as a
-					series of fragments of memories told by different kinds of characters,
-					all relating to their experiences with the state of California. The
-					range of characters is really diverse and they are all stylized to be
-					highly complex and idiosyncratic.
+				<br />
+					While Large Language Models demostrate amazing capabilities, deploying them in a production environment is tricky - we need to think about energy consumption, data privacy, training cost and reliability. 
+				<br />
 				</p>
-				<iframe
+				
+				<p><br/><br/>
+				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>				
+				</p>
+				<!-- <iframe
 					src="https://player.vimeo.com/video/891906551?h=0b25ef0bff"
 					:width="
 						!mobile
@@ -45,18 +44,7 @@
 					frameborder="0"
 					allow="autoplay; fullscreen; picture-in-picture"
 					allowfullscreen
-				></iframe>
-				<p>
-					The fragmentation and database-like structure of the video constitutes
-					a strong tool for viewer activation. This participatory approach
-					enhances the “user experience” and creates a more dynamic relationship
-					between the audience and the work. As a result the piece supplies the
-					brand with a pseudo-interactive experience, which highlights the
-					brand’s roots in the state of California and the reach and
-					appreciation the brand has built among people coming from diverse
-					social and geographical contexts.
-				</p>
-
+				></iframe> -->
 				<!-- <figure>
 					<img src="/content/c/1/drama.png" alt="" />
 					<figcaption>
@@ -78,7 +66,6 @@
 					<div class="caption">Lev Manovich</div>
 				</blockquote> -->
 			</div>
-			<div class="refs"></div>
 		</main>
 		<ElementsNavigation :current="currentRoute.path"></ElementsNavigation>
 	</div>

@@ -97,7 +97,7 @@
 					margin-left: 0;
 				}
 				&:hover {
-					outline: black solid 1px;
+					outline: black solid 0px;
 
 					&:before {
 						display: block;
@@ -119,7 +119,7 @@
 					width: min-content;
 					text-transform: uppercase;
 					padding: 1px;
-					outline: black solid 1px;
+					outline: black solid 0px;
 					max-width: 50ch;
 				}
 
