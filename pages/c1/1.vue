@@ -51,8 +51,8 @@
 	const { currentRoute } = useRouter()
 	const questions = await getQuestions(currentRoute.value.path)
 
-	onMounted(() => {
-		const paragraphs = document.querySelectorAll('p')
-		countParagraphs(paragraphs, currentRoute.value.path)
-	})
+	// onMounted(() => {
+	// 	const paragraphs = document.querySelectorAll('p')
+	// 	countParagraphs(paragraphs, currentRoute.value.path)
+	// })
 </script>
