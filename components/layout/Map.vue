@@ -97,6 +97,8 @@
 				display: flex;
 				flex-direction: column;
 				justify-content: space-between;
+				align-items: center;
+    			text-align: center;  
 				& > .title {
 					text-transform: uppercase;
 					font-family: 'Univers';
