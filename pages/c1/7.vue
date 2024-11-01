@@ -23,7 +23,8 @@
 				</p>
 				
 				<p><br/><br/>
-				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>				
+				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>		
+				<a href='https://www.pictobrush.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Pic2Brush</a>: Paint _using_ Photos<br/><br/>				
 				</p>
 			</div>
 		</main>
