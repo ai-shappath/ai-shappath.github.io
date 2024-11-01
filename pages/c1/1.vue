@@ -25,7 +25,7 @@
 				</p>
 				
 				<p><br/><br/>
-				<a href='https://notebooklm.google/' style='text-decoration: underline;'>NotebookLM</a>: For chatting with books and webpages<br/><br/>
+				<a href='https://notebooklm.google/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>NotebookLM</a>: For chatting with books and webpages<br/><br/>
 				<a href='https://claude.ai/new' style='text-decoration: underline;'>Claude</a>: For chatting and "translating" one thing into another<br/><br/>
 				<a href='https://goblin.tools/' style='text-decoration: underline;'>Goblin Tools</a>: A set of very useful tools<br/><br/>
 				<a href='https://build.nvidia.com/nvidia/nemotron-4-mini-hindi-4b-instruct' style='text-decoration: underline;'>Nemotron Hindi</a>: A Language Model taylored for the Hindi Language<br/><br/>
