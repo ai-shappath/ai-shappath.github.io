@@ -21,6 +21,8 @@
 				</p>
 				
 				<p><br/><br/>
+					
+				<a href='https://thegradient.pub/shortcuts-neural-networks-love-to-cheat/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Neural Networks Love to Cheat</a>: a little twist<br/><br/>				
 				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>				
 				</p>
 			</div>

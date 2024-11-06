@@ -23,7 +23,7 @@
 				<p>Melanie Mitchell</p>
 				<p>Gary Marcus</p>
 				<p>Yann LeCun</p>
-				<p></p>
+				<p>Chip Huyen</p>
 				<p></p>
 				
 

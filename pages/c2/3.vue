@@ -21,7 +21,7 @@
 				</p>
 				
 				<p><br/><br/>
-				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>				
+				<a href='https://eugeneyan.com/writing/machine-learning-metagame/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Using Domain Knowledge to your advantage</a><br/><br/>				
 				</p>
 				<!-- <figure>
 					<img src="/content/c/1/drama.png" alt="" />

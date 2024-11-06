@@ -24,7 +24,8 @@
 				
 				<p><br/><br/>
 				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>		
-				<a href='https://www.pictobrush.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Pic2Brush</a>: Paint _using_ Photos<br/><br/>				
+				<a href='https://www.pictobrush.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Pic2Brush</a>: Paint _using_ Photos<br/><br/>
+				<a href='https://sites.research.google/tonetransfer' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Go from one sound to another</a><br/><br/>
 				</p>
 			</div>
 		</main>
