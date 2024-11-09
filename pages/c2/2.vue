@@ -3,7 +3,7 @@
 		<NuxtLink to="/" class="close">CLOSE</NuxtLink>
 		<header class="">
 			<div class="title">
-				<div class="univers -type-l">The impact of The Brand</div>
+				<div class="univers -type-l">the basics</div>
 				<div class="questions">
 					<div v-for="(q, i) in questions" class="question">
 						{{ q }}

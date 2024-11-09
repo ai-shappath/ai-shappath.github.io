@@ -28,6 +28,7 @@
 				<a href='https://notebooklm.google/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>NotebookLM</a>: For chatting with books and webpages<br/><br/>
 				<a href='https://claude.ai/new' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Claude</a>: For chatting and "translating" one thing into another<br/><br/>
 				<a href='https://clay.thoughtandcraft.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Clay</a>: roaming in sentence space<br/><br/>
+				<a href='https://concepts.engine.study/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Colourful Concepts</a>: drag and combine concepts<br/><br/>
 				<a href='https://www.aitudes.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Aititudes</a>: Small AI tools for writing<br/><br/>
 				<a href='https://goblin.tools/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Goblin Tools</a>: A set of very useful tools<br/><br/>
 				<a href='https://textfx.withgoogle.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>TextFx</a>: AI-powered tools for rappers, writers and wordsmiths><br/><br/>

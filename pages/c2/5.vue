@@ -4,7 +4,7 @@
 		<header class="">
 			<div class="title">
 				<div class="univers -type-l">
-					About Parco Japan 2020 Spring/Summer seasonal Campaign
+					Self study roadmap
 				</div>
 				<div class="questions">
 					<div v-for="(q, i) in questions" class="question">

@@ -4,7 +4,7 @@
 		<header class="">
 			<div class="title">
 				<div class="univers -type-l">
-					Database Aesthetics and Post-Branding in Contemporary Design
+					the ethics
 				</div>
 				<div class="questions">
 					<div v-for="(q, i) in questions" class="question">

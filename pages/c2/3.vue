@@ -3,7 +3,7 @@
 		<NuxtLink to="/" class="close">CLOSE</NuxtLink>
 		<header class="">
 			<div class="title">
-				<div class="univers -type-l">Benefits of Characterization</div>
+				<div class="univers -type-l">leveraging domain expertise</div>
 				<div class="questions">
 					<div v-for="(q, i) in questions" class="question">
 						{{ q }}
