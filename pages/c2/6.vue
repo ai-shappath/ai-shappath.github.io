@@ -18,12 +18,20 @@
 			<div class="content">
 				<p>
 				<br />
-					While Large Language Models demostrate amazing capabilities, deploying them in a production environment is tricky - we need to think about energy consumption, data privacy, training cost and reliability. 
+					Just cool links on AI
 				<br />
 				</p>
 				
 				<p><br/><br/>
-				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>				
+				<a href='https://otoro.net/slimevolley/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AWESOME LINK</a><br/><br/>
+				<a href='https://labs.google/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AWESOME LINK</a><br/><br/>
+				<a href='https://aidemos.meta.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AWESOME LINK</a><br/><br/>				
+				<a href='https://experiments.withgoogle.com/home-talk' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AWESOME LINK</a><br/><br/>
+				<a href='https://artsexperiments.withgoogle.com/poemportraits' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AWESOME LINK</a><br/><br/>
+				<a href='https://artsexperiments.withgoogle.com/nonsense-laboratory/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AWESOME LINK</a><br/><br/>
+				<a href='https://artsandculture.google.com/experiment/the-mo-amin-archive/wAEJDXhB5ZAhoA' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AWESOME LINK</a><br/><br/>
+				<a href='https://shadowart.withgoogle.com/?lang=en-us#' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AWESOME LINK</a><br/><br/>
+				<a href='https://quickdraw.withgoogle.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AWESOME LINK</a><br/><br/>
 				</p>
 
 				<!-- <iframe
