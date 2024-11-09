@@ -18,12 +18,16 @@
 			<div class="content">
 				<p>
 				<br />
-					While Large Language Models demostrate amazing capabilities, deploying them in a production environment is tricky - we need to think about energy consumption, data privacy, training cost and reliability. 
+					"Learning from data" inherentily means taking decisions based on stereotypes, and such decision making is what perpetuates the stereotypes further.
+					In this chapter we look at examples of how this plays out in the domains of chess, nobel prizes, reservation and law enforcement. 
+					We will also study the Moravec paradox, and understand the risks associated with DeepFakes, Voice Clones, Bots, Social Media Bubbles and Dataset Biases.
 				<br />
-				</p>
-				
+				</p>	
 				<p><br/><br/>
-				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>				
+				<a href='https://www.survivalofthebestfit.com/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Survival of the Best Fit</a> is an educational game about hiring bias in AI<br/><br/>
+				<a href='https://controlling-bias.github.io/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Controlling Bias</a> in Artificial Intelligence<br/><br/>	
+				<a href='https://news.ycombinator.com/item?id=28233077' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>An Interesting Discussion</a> on YCombinator<br/><br/>
+				<a href='https://notebooklm.google/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>NotebookLM</a>: For chatting with books and webpages<br/><br/>
 				</p>
 			</div>
 		</main>

@@ -23,7 +23,7 @@
 				</p>
 				
 				<p><br/><br/>
-				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>		
+				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>	
 				<a href='https://applied-llms.org/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>What</a> we learnt from 1 year of building LLMs<br/><br/>				
 				<a href='https://eugeneyan.com/writing/llm-patterns/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Patterns</a> for Building LLM-based Systems & Products<br/><br/>				
 				<a href='https://arxiv.org/abs/2409.06857' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>What is the Role of Small Models in the LLM Era: A Survey</a><br/><br/>				

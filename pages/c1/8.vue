@@ -18,13 +18,18 @@
 			<div class="content">
 				<p>
 				<br />
-					While Large Language Models demostrate amazing capabilities, deploying them in a production environment is tricky - we need to think about energy consumption, data privacy, training cost and reliability. 
+					Transformer based generative models - when asked to do a specific task - generate answers which are in the right direction, 
+					but their output cannot be assumed to be correct all the time. 
+					The output needs to be verified by human supervisors, or external evaluators (eg: python compiler).
+					Once verified, the outputs which we know are correct, can be added back to the generative models training data - which improves the generations further. 
+					This iterative loop of learning, along with heavy use of domain specific knowledge and additional imporvements is used in fundamental research such as Protein Design, Material Science, and Math among others.
+
 				<br />
 				</p>
-				
+<!-- 				
 				<p><br/><br/>
 				<a href='https://github.com/NexaAI/Awesome-LLMs-on-device?tab=readme-ov-file' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Awesome LLMs on Device</a>: A Must-Read Comprehensive Hub by Nexa AI<br/><br/>				
-				</p>
+				</p> -->
 			</div>
 		</main>
 		<ElementsNavigation :current="currentRoute.path"></ElementsNavigation>

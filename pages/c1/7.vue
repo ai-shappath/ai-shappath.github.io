@@ -18,11 +18,12 @@
 			<div class="content">
 				<p>
 				<br />
-					Travelling in the space of images, sounds, design ...
+					In this chapter we will wander on the "latent spaces" of images, videos, music. Latent spaces let us discover new creative possibilities by exploring smooth transitions between existing images, sounds, and videos - essentially mapping and wandering the neighborhoods around known examples.
 				<br />
 				</p>
 				
 				<p><br/><br/>
+				<a href='https://projector.tensorflow.org/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Embedding Projector</a>: Interpreting and visualzing word embeddings<br/><br/>
 				<a href='https://n8python.github.io/mnistLatentSpace/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>MNIST Latent Spaces</a>: Exploring the space of images of numbers<br/><br/>
 				<a href='https://bryanlohjy.gitlab.io/spacesheet/index.html' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>SpaceSheet</a>: Exploring the space of faces, fonts and more<br/><br/>
 				<a href='https://www.whichfaceisreal.com/index.php' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Which Face is real?</a>: Click on the person who is real<br/><br/>

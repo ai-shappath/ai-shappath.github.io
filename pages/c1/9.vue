@@ -24,6 +24,9 @@
 				<p>Gary Marcus</p>
 				<p>Yann LeCun</p>
 				<p>Chip Huyen</p>
+				<p>Eugene Yan</p>
+				<p>Timnit Gebru</p>
+				<p></p>
 				<p></p>
 				
 
