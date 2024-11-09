@@ -23,7 +23,7 @@
 				<p><br/><br/>
 				
 				<a href='https://applyingml.com/resources/first-rule-of-ml/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>The first rule of Machine Learning</a>: by Eugene Yan<br/><br/>
-				<a href='https://thegradientpub.substack.com/p/varun-ganapathi-akasa-ai-and-healthcare#details' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>https://thegradientpub.substack.com/p/varun-ganapathi-akasa-ai-and-healthcare#details</a>: by Varun Ganapathi<br/><br/>
+				<a href='https://thegradientpub.substack.com/p/varun-ganapathi-akasa-ai-and-healthcare#details' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>AI in healthcare</a>: by Varun Ganapathi<br/><br/>
 				<a href='https://applyingml.com/resources/ml-production-challenges/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Challenges faces by Machine Learning in Production</a>: by Eugene Yan<br/><br/>
 				<a href='https://huyenchip.com/machine-learning-systems-design/toc.html' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Machine Learning System Design</a>: By Chip Huyen<br/><br/>
 				<a href='https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Data Distribution Shifts and Monitoring</a>: By Chip Huyen<br/><br/>
