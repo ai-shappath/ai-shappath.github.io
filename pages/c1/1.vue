@@ -21,7 +21,7 @@
 				<br />
 					In this chapter we will immerse ourselves into Generative AI Chatbots, also known as Large Language Models (LLMs).
 					We will understand through examples - what LLMs are, the kinds of tasks they are capable of doing, and how you can fit LLMs into workflows and processes in your domain of interest.<br />
-					Keywords: Prompt Engineering("we program the LLM using prompts"), Chain of thought prompting, In-context-learning
+					Keywords: Prompt Engineering("we program the LLM using prompts"), Chain of thought prompting, In-context-learning, 
 				<br />
 				</p>
 				
