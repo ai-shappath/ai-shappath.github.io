@@ -1,3 +1,17 @@
 {
-    "nuxt.isNuxtApp": false
+    "nuxt.isNuxtApp": false,
+    "ltex.additionalRules.enablePickyRules": true,
+    "ltex.additionalRules.motherTongue": "en-GB",
+    "ltex.enabled": [
+        "vue",
+        "bibtex",
+        "context",
+        "context.tex",
+        "html",
+        "latex",
+        "markdown",
+        "org",
+        "restructuredtext",
+        "rsweave"
+    ]
 }

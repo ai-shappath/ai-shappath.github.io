@@ -18,7 +18,7 @@
 			<div class="content">
 				<p>
 				<br />
-					While Large Language Models demostrate amazing capabilities, deploying them in a production environment is tricky - we need to think about energy consumption, data privacy, training cost and reliability. 
+					While Large Language Models demonstrate amazing capabilities, deploying them in a production environment is tricky - we need to think about energy consumption, data privacy, training cost and reliability. 
 				<br />
 				</p>
 				

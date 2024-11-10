@@ -16,7 +16,7 @@
 			<div class="content">
 				<p>
 				<br />
-					In this chapter we will study the core concepts, and common essence of AI, Machine Learning, and Data Science - the Supervised Learning Paradigm, the main sources of error, and the pernicious Alignment Problem.
+					In this chapter we will study the core concepts which capture the essence of AI, Machine Learning, and Data Science: Supervised Learning, types of errors, and Alignment Problem.
 				<br />
 				</p>
 				
