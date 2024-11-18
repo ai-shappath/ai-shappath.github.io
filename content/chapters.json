@@ -49,7 +49,7 @@
 			"title": "ABOUT TEACHER",
 			"path": "/c1/5",
 			"type": "fig",
-			"index": "शिक्षक बद्दल माहिती",
+			"index": "शिक्षक",
 			"questions": [
 				"💭"
 			]
@@ -147,7 +147,7 @@
 		{
 			"title": "BUY",
 			"path": "/c2/7",
-			"type": "fig",
+			"type": "buy",
 			"index": "BUY"
 		}
 	]

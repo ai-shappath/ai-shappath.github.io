@@ -106,7 +106,7 @@
 
 				& > .index {
 					font-family: 'Office-Medium';
-					font-size: var(--type-xs);
+					font-size: var(--type-s);
 					margin-top: var(--space-m);
 				}
 				border: var(--color4) 1px solid;
@@ -127,6 +127,11 @@
 			}
 
 			& > .chapter {
+				flex-grow: 3;
+			}
+
+			& > .buy {
+				background-color: #336a06;
 				flex-grow: 3;
 			}
 		}

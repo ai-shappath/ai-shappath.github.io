@@ -144,6 +144,11 @@
 			& > .chapter {
 				flex-grow: 3;
 			}
+
+			& > .buy {
+				background-color: #336a06;
+				flex-grow: 3;
+			}
 		}
 	}
 </style>
