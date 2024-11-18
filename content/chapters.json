@@ -4,7 +4,7 @@
 			"title": "ABOUT COURSE",
 			"path": "/intro/intro",
 			"type": "fig",
-			"index": "ABOUT",
+			"index": "माहिती",
 			"questions": [
 				"The Vision"
 			]
@@ -13,7 +13,7 @@
 			"title": "Large Language Model capabilities",
 			"path": "/c1/1",
 			"type": "chapter",
-			"index": "C1.1",
+			"index": "भाग १",
 			"questions": [
 				"What Large Language Models can do"
 			]
@@ -22,7 +22,7 @@
 			"title": "Large Language Model Limitations",
 			"path": "/c1/2",
 			"type": "chapter",
-			"index": "C1.2",
+			"index": "भाग २",
 			"questions": [
 				"What Large Language Models (cannot) do"
 			]
@@ -31,7 +31,7 @@
 			"title": "Behind the Scenes",
 			"path": "/c1/3",
 			"type": "chapter",
-			"index": "C1.3",
+			"index": "भाग ३",
 			"questions": [
 				"How do Large Language Models work?"
 			]
@@ -40,7 +40,7 @@
 			"title": "Efficiency and Cost",
 			"path": "/c1/4",
 			"type": "chapter",
-			"index": "C1.4",
+			"index": "भाग ४",
 			"questions": [
 				"When can we use Small Language Models?"
 			]
@@ -49,7 +49,7 @@
 			"title": "ABOUT TEACHER",
 			"path": "/c1/5",
 			"type": "fig",
-			"index": "TEACHER",
+			"index": "शिक्षक बद्दल माहिती",
 			"questions": [
 				"💭"
 			]
@@ -58,7 +58,7 @@
 			"title": "Fine Tuning",
 			"path": "/c1/6",
 			"type": "chapter",
-			"index": "C1.6",
+			"index": "भाग ५",
 			"questions": [
 				"Teaching LLMs to do specific tasks"
 			]
@@ -67,7 +67,7 @@
 			"title": "Beyond Language (Part 1)",
 			"path": "/c1/7",
 			"type": "chapter",
-			"index": "C1.7",
+			"index": "भाग ६",
 			"questions": [
 				"Image  Video  Music"
 			]
@@ -76,7 +76,7 @@
 			"title": "Beyond Language (Part 2)",
 			"path": "/c1/8",
 			"type": "chapter",
-			"index": "C1.8",
+			"index": "भाग ७",
 			"questions": [
 				"Natural Sciences"
 			]
@@ -94,7 +94,7 @@
 			"title": "the ethics",
 			"path": "/c2/1",
 			"type": "chapter",
-			"index": "C2.1",
+			"index": "भाग ८",
 			"questions": [
 				"Learning from (past) data inherently perpetuates stereotypes"
 			]
@@ -103,7 +103,7 @@
 			"title": "the basics",
 			"path": "/c2/2",
 			"type": "chapter",
-			"index": "C2.2",
+			"index": "भाग ९",
 			"questions": [
 				"The foundations of AI, Machine Learning, Data Science"
 			]
@@ -112,7 +112,7 @@
 			"title": "Domain Specific Case Studies",
 			"path": "/c2/3",
 			"type": "chapter",
-			"index": "C2.3",
+			"index": "भाग १०",
 			"questions": [
 				"AI is steroids for your domain expertise"
 			]
@@ -121,7 +121,7 @@
 			"title": "Practical Guidelines",
 			"path": "/c2/4",
 			"type": "chapter",
-			"index": "C2.4",
+			"index": "भाग ११",
 			"questions": [
 				"How to build feasible AI applications?"
 			]
