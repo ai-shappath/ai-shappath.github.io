@@ -17,7 +17,19 @@
 		
 		<main>
 			<div class="content">
+				<img 
+				src="https://d2w9rnfcy7mm78.cloudfront.net/17023232/original_6076caf38d78aceedbb6713051e4a9ed.gif?1656415167?bc=0" 
+				alt="GIF" 
+				style="width: 100%; height: auto; aspect-ratio: 1/1;"
+				/>
 				<p>
+				<p class="citation">
+					Artist: Andre do Amaral, via <a href='https://savee.it/i/vJsv7N5/' target="_blank" rel="noopener noreferrer" style='text-decoration: underline;'>Savee.it</a><br/>
+				</p>
+
+
+
+
 				<br />
 					In this chapter we will immerse ourselves into Generative AI Chatbots, also known as Large Language Models (LLMs).
 					We will understand through examples - what LLMs are, the kinds of tasks they are capable of doing, and how you can fit LLMs into workflows and processes in your domain of interest.<br />
