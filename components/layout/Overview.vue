@@ -138,16 +138,16 @@
 
 			& > .fig {
 				background-color: #333333;
-				flex-grow: 1;
+				flex-grow: 4;
 			}
 
 			& > .chapter {
-				flex-grow: 3;
+				flex-grow: 4;
 			}
 
 			& > .buy {
 				background-color: #336a06;
-				flex-grow: 3;
+				flex-grow: 4;
 			}
 		}
 	}
