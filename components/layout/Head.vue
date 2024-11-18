@@ -1,7 +1,9 @@
 <template>
 	<header>
 		<section class="header-title univers -type-l">
-			An Intro to Modern AI : for Chefs, Medical Professionals, Primatologists, Police, Fishermen, High Schoolers, Chemists, Radio Hosts, Business Analysts, Marine Archaeologists, Lawyers, Artists, and all other Domain Experts
+			<br/>
+			AI काय करु शकता? काय नाही करु शकत?
+			<br/>‌<br/>‌आपल्या क्षेत्रात Artificial Intelligence (AI) चा वापर करायला सोप्या शब्दात शिका.
 		</section>
 	</header>
 </template>
