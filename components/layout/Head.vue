@@ -1,8 +1,7 @@
 <template>
 	<header>
 		<section class="header-title univers -type-l">
-			AI काय करु शकता? काय नाही करु शकत?
-			<br/>‌<br/>‌आपल्या क्षेत्रात Artificial Intelligence (AI) चा वापर करायला सोप्या शब्दात शिका.
+			<br/>‌‌आपल्या क्षेत्रात Artificial Intelligence (AI) चा वापर करायला सोप्या शब्दात शिका.<br/>
 		</section>
 	</header>
 </template>
