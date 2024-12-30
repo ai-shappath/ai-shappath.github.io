@@ -7,12 +7,6 @@
 				:class="[c.type]"
 			>
 				<div class="title">{{ c.title }}</div>
-				<div class="index">
-					<div v-for="(q, i) in c.questions" class="question">
-						{{ q }}
-					</div>
-					<!-- {{ c.index }} -->
-				</div>
 			</NuxtLink>
 		</div>
 		<div class="col">
@@ -22,12 +16,6 @@
 				:class="[c.type]"
 			>
 				<div class="title">{{ c.title }}</div>
-				<div class="index">
-					<div v-for="(q, i) in c.questions" class="question">
-						{{ q }}
-					</div>
-					<!-- {{ c.index }} -->
-				</div>
 			</NuxtLink>
 		</div>
 		<div class="col">
@@ -37,12 +25,6 @@
 				:class="[c.type]"
 			>
 				<div class="title">{{ c.title }}</div>
-				<div class="index">
-					<div v-for="(q, i) in c.questions" class="question">
-						{{ q }}
-					</div>
-					<!-- {{ c.index }} -->
-				</div>
 			</NuxtLink>
 		</div>
 		<div class="col">
@@ -52,12 +34,6 @@
 				:class="[c.type]"
 			>
 				<div class="title">{{ c.title }}</div>
-				<div class="index">
-					<div v-for="(q, i) in c.questions" class="question">
-						{{ q }}
-					</div>
-					<!-- {{ c.index }} -->
-				</div>
 			</NuxtLink>
 		</div>
 	</main>

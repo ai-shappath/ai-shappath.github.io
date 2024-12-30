@@ -6,8 +6,8 @@
 				:to="c.path"
 				:class="[c.type]"
 			>
-				<!-- <div class="title">{{ c.title }}</div> -->
-				<div class="index">{{ c.index }}</div>
+				<div class="title">{{ c.title }}</div>
+				<!-- <div class="index">{{ c.index }}</div> -->
 			</NuxtLink>
 		</div>
 		<div class="col">
@@ -17,8 +17,8 @@
 				:class="[c.type]"
 				:data-index="c.index"
 			>
-				<!-- <div class="title">{{ c.title }}</div> -->
-				<div class="index">{{ c.index }}</div>
+				<div class="title">{{ c.title }}</div>
+				<!-- <div class="index">{{ c.index }}</div> -->
 			</NuxtLink>
 		</div>
 		<div class="col">
@@ -28,8 +28,8 @@
 				:class="[c.type]"
 				:data-index="c.index"
 			>
-				<!-- <div class="title">{{ c.title }}</div> -->
-				<div class="index">{{ c.index }}</div>
+				<div class="title">{{ c.title }}</div>
+				<!-- <div class="index">{{ c.index }}</div> -->
 			</NuxtLink>
 		</div>
 		<div class="col">
@@ -39,8 +39,8 @@
 				:class="[c.type]"
 				:data-index="c.index"
 			>
-				<!-- <div class="title">{{ c.title }}</div> -->
-				<div class="index">{{ c.index }}</div>
+				<div class="title">{{ c.title }}</div>
+				<!-- <div class="index">{{ c.index }}</div> -->
 			</NuxtLink>
 		</div>
 	</div>
