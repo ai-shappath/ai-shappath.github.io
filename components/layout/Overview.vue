@@ -107,7 +107,7 @@
 				}
 
 				&:hover {
-					border: var(--color2) 1px solid;
+					border: var(--color2) 0px solid;
 
 					& > .index {
 						& > .question {
