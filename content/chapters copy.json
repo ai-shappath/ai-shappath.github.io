@@ -1,0 +1,154 @@
+{
+	"arr": [
+		{
+			"title": "ABOUT COURSE",
+			"path": "/intro/intro",
+			"type": "fig",
+			"index": "माहिती",
+			"questions": [
+				"The Vision"
+			]
+		},
+		{
+			"title": "Large Language Model capabilities",
+			"path": "/c1/1",
+			"type": "chapter",
+			"index": "भाग १",
+			"questions": [
+				"What Large Language Models can do"
+			]
+		},
+		{
+			"title": "Large Language Model Limitations",
+			"path": "/c1/2",
+			"type": "chapter",
+			"index": "भाग २",
+			"questions": [
+				"What Large Language Models (cannot) do"
+			]
+		},
+		{
+			"title": "Behind the Scenes",
+			"path": "/c1/3",
+			"type": "chapter",
+			"index": "भाग ३",
+			"questions": [
+				"How do Large Language Models work?"
+			]
+		},
+		{
+			"title": "Efficiency and Cost",
+			"path": "/c1/4",
+			"type": "chapter",
+			"index": "भाग ४",
+			"questions": [
+				"When can we use Small Language Models?"
+			]
+		},
+		{
+			"title": "ABOUT TEACHER",
+			"path": "/c1/5",
+			"type": "fig",
+			"index": "शिक्षक",
+			"questions": [
+				"💭"
+			]
+		},
+		{
+			"title": "Fine Tuning",
+			"path": "/c1/6",
+			"type": "chapter",
+			"index": "भाग ५",
+			"questions": [
+				"Teaching LLMs to do specific tasks"
+			]
+		},
+		{
+			"title": "Beyond Language (Part 1)",
+			"path": "/c1/7",
+			"type": "chapter",
+			"index": "भाग ६",
+			"questions": [
+				"Image  Video  Music"
+			]
+		},
+		{
+			"title": "Beyond Language (Part 2)",
+			"path": "/c1/8",
+			"type": "chapter",
+			"index": "भाग ७",
+			"questions": [
+				"Natural Sciences"
+			]
+		},
+		{
+			"title": "Leading Researchers",
+			"path": "/c1/9",
+			"type": "fig",
+			"index": "संशोधक",
+			"questions": [
+				"We standing on the shoulders of giants"
+			]
+		},
+		{
+			"title": "the ethics",
+			"path": "/c2/1",
+			"type": "chapter",
+			"index": "भाग ८",
+			"questions": [
+				"Learning from (past) data inherently perpetuates stereotypes"
+			]
+		},
+		{
+			"title": "the basics",
+			"path": "/c2/2",
+			"type": "chapter",
+			"index": "भाग ९",
+			"questions": [
+				"The foundations of AI, Machine Learning, Data Science"
+			]
+		},
+		{
+			"title": "Domain Specific Case Studies",
+			"path": "/c2/3",
+			"type": "chapter",
+			"index": "भाग १०",
+			"questions": [
+				"AI is steroids for your domain expertise"
+			]
+		},
+		{
+			"title": "Practical Guidelines",
+			"path": "/c2/4",
+			"type": "chapter",
+			"index": "भाग ११",
+			"questions": [
+				"How to build feasible AI applications?"
+			]
+		},
+		{
+			"title": "Self study roadmap",
+			"path": "/c2/5",
+			"type": "fig",
+			"index": "अभ्यास",
+			"questions": [
+				"If you wish to learn it all from scratch"
+			]
+		},
+		{
+			"title": "Random Stuff",
+			"path": "/c2/6",
+			"type": "fig",
+			"index": "विविध",
+			"questions": [
+				"Important stuff which doesn't fit any other box"
+			]
+		},
+		{
+			"title": "BUY",
+			"path": "/c2/7",
+			"type": "buy",
+			"index": "BUY"
+		}
+	]
+}

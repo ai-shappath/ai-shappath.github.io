@@ -11,7 +11,7 @@
 					<div v-for="(q, i) in c.questions" class="question">
 						{{ q }}
 					</div>
-					{{ c.index }}
+					<!-- {{ c.index }} -->
 				</div>
 			</NuxtLink>
 		</div>
@@ -26,7 +26,7 @@
 					<div v-for="(q, i) in c.questions" class="question">
 						{{ q }}
 					</div>
-					{{ c.index }}
+					<!-- {{ c.index }} -->
 				</div>
 			</NuxtLink>
 		</div>
@@ -41,7 +41,7 @@
 					<div v-for="(q, i) in c.questions" class="question">
 						{{ q }}
 					</div>
-					{{ c.index }}
+					<!-- {{ c.index }} -->
 				</div>
 			</NuxtLink>
 		</div>
@@ -56,7 +56,7 @@
 					<div v-for="(q, i) in c.questions" class="question">
 						{{ q }}
 					</div>
-					{{ c.index }}
+					<!-- {{ c.index }} -->
 				</div>
 			</NuxtLink>
 		</div>
@@ -82,12 +82,12 @@
 <style lang="postcss" scoped>
 	main {
 		display: grid;
-		grid-template-columns: repeat(4, 1fr);
+		grid-template-columns: repeat(1, 1fr);
 		/* gap: var(--space-m); */
 		height: 60vh;
 		width: 100vw;
 		@media screen and (max-width: 640px) {
-			grid-template-columns: repeat(2, 1fr);
+			grid-template-columns: repeat(1, 1fr);
 		}
 		& > .col {
 			display: flex;
@@ -115,7 +115,7 @@
 						opacity: 0;
 					}
 				}
-				border: var(--color4) 1px solid;
+				border: var(--color4) 0px solid;
 				&:hover {
 					border: var(--color2) 1px solid;
 
@@ -146,7 +146,7 @@
 			}
 
 			& > .buy {
-				background-color: #336a06;
+				background-color: #333333;
 				flex-grow: 4;
 			}
 		}

@@ -67,38 +67,54 @@
 <style lang="postcss" scoped>
 	.map {
 		display: grid;
-		grid-template-columns: repeat(4, 1fr);
+		grid-template-columns: repeat(1, 1fr); /* Single column layout */
 		width: 25vw;
-		padding-left: 2px;
-		padding-right: var(--space-m);
-		max-height: 20vh;
+		padding: var(--space-m); /* Horizontal and vertical padding */
 		position: fixed;
 		right: 0;
+		justify-content: center; /* Center horizontally */
+		align-items: center; /* Center vertically */
+		text-align: center; /* Center text alignment */
+		background-color: black;
+
 		@media screen and (max-width: 600px) {
 			position: static;
-			padding: var(--space-m);
 			right: 10px;
-			background-color: black;
 			z-index: 50;
-			width: 100%;
+			width: 100%; /* Full width on smaller screens */
 			max-height: initial;
 		}
 
-		/* @media screen and (max-width: 640px) {
-			grid-template-columns: repeat(2, 1fr);
-		} */
-		background-color: black;
 		& > .col {
 			display: flex;
 			flex-direction: column;
-			justify-content: space-between;
+			justify-content: center; /* Center content vertically */
+			align-items: center; /* Center content horizontally */
+			text-align: center;
+			width: 100%; /* Ensure equal width for all columns */
+			padding: var(--space-s); /* Add padding for spacing */
+
 			& > a {
-				/* padding: var(--space-s); */
 				display: flex;
 				flex-direction: column;
-				justify-content: space-between;
-				align-items: center;
-    			text-align: center;  
+				justify-content: center; /* Center content vertically */
+				align-items: center; /* Center content horizontally */
+				text-align: center;
+				width: 100%; /* Equal width for links */
+				padding: var(--space-s); /* Add padding inside links */
+				border: var(--color4) 0px solid;
+
+				&:hover {
+					border: var(--color2) 0px solid;
+					background-color: white;
+					color: black;
+				}
+
+				&.router-link-active {
+					background-color: var(--color4);
+					color: black;
+				}
+
 				& > .title {
 					text-transform: uppercase;
 					font-family: 'Univers';
@@ -109,31 +125,20 @@
 					font-size: var(--type-s);
 					margin-top: var(--space-m);
 				}
-				border: var(--color4) 1px solid;
-				&:hover {
-					border: var(--color2) 1px solid;
-					background-color: white;
-					color: black;
-				}
-				&.router-link-active {
-					background-color: var(--color4);
-					color: black;
-				}
 			}
 
-			& > .fig {
+			& > .fig,
+			& > .chapter,
+			& > .buy {
 				background-color: #333333;
 				flex-grow: 1;
-			}
-
-			& > .chapter {
-				flex-grow: 3;
-			}
-
-			& > .buy {
-				background-color: #336a06;
-				flex-grow: 3;
+				display: flex;
+				justify-content: center; /* Center content vertically */
+				align-items: center; /* Center content horizontally */
+				width: 100%; /* Ensure equal width */
+				padding: var(--space-s); /* Add padding */
 			}
 		}
 	}
 </style>
+

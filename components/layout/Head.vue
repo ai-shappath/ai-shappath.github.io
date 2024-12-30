@@ -1,7 +1,7 @@
 <template>
 	<header>
 		<section class="header-title univers -type-l">
-			<br/>‌‌आपल्या क्षेत्रात Artificial Intelligence (AI) चा वापर करायला सोप्या शब्दात शिका.<br/>
+			<br/>‌AI SHAPPATH<br/>
 		</section>
 	</header>
 </template>

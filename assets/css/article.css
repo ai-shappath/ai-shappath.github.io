@@ -76,7 +76,7 @@
 	& > main {
 		border-top: var(--color2) 2px solid;
 		display: grid;
-		grid-template-columns: repeat(4, 1fr);
+		grid-template-columns: repeat(1, 1fr);
 		padding: 0 var(--space-m);
 		gap: var(--space-m);
 		@media screen and (max-width: 600px) {

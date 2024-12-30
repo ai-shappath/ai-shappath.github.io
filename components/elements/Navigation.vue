@@ -1,5 +1,5 @@
 <template>
-	<nav>
+	<!-- <nav>
 		<NuxtLink v-if="nav.prev" :to="nav.prev.path" class="prev">
 			<div class="label">PREV</div>
 			<div class="title univers -type-m">{{ nav.prev.title }}</div>
@@ -20,7 +20,7 @@
 				</div>
 			</div>
 		</NuxtLink>
-	</nav>
+	</nav> -->
 </template>
 
 <script setup>
