@@ -76,6 +76,7 @@
 			text-align: center;
 			width: 100%; /* Fit the full width */
 			padding: var(--space-s); /* Add padding for spacing */
+			
 
 			& > a {
 				display: flex;
@@ -128,7 +129,6 @@
 			& > .fig,
 			& > .chapter,
 			& > .buy {
-				background-color: #333333;
 				flex-grow: 4;
 				display: flex;
 				justify-content: center; /* Center content vertically */

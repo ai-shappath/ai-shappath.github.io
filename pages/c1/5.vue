@@ -2,14 +2,14 @@
 	<div class="page">
 		<NuxtLink to="/" class="close">CLOSE</NuxtLink>
 		<header class="">
-			<div class="title">
+			<!-- <div class="title">
 				<div class="univers -type-l">About Teacher</div>
 				<div class="questions">
 					<div v-for="(q, i) in questions" class="question">
 						{{ q }}
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<LayoutMap></LayoutMap>
 		</header>
 		<main>
