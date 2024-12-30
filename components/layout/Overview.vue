@@ -82,22 +82,34 @@
 <style lang="postcss" scoped>
 	main {
 		display: grid;
-		grid-template-columns: repeat(1, 1fr);
-		/* gap: var(--space-m); */
+		grid-template-columns: repeat(1, 1fr); /* Single column layout */
 		height: 60vh;
-		width: 100vw;
+		width: 100%; /* Fit the full width of the screen */
+		padding: var(--space-m); /* Add padding for spacing */
+		align-items: center; /* Center vertically */
+		text-align: center; /* Center text alignment */
+
 		@media screen and (max-width: 640px) {
 			grid-template-columns: repeat(1, 1fr);
 		}
+
 		& > .col {
 			display: flex;
 			flex-direction: column;
-			justify-content: space-between;
+			justify-content: center; /* Center content vertically */
+			text-align: center;
+			width: 100%; /* Fit the full width */
+			padding: var(--space-s); /* Add padding for spacing */
+
 			& > a {
-				padding: var(--space-s);
 				display: flex;
 				flex-direction: column;
-				justify-content: space-between;
+				justify-content: center; /* Center content vertically */
+				text-align: center;
+				width: 100%; /* Fit the full width */
+				padding: var(--space-s); /* Add padding inside links */
+				border: var(--color4) 0px solid;
+
 				& > .title {
 					text-transform: uppercase;
 					font-family: 'Univers';
@@ -111,11 +123,12 @@
 					color: var(--color2);
 					line-height: 110%;
 					text-transform: uppercase;
+
 					& > .question {
 						opacity: 0;
 					}
 				}
-				border: var(--color4) 0px solid;
+
 				&:hover {
 					border: var(--color2) 1px solid;
 
@@ -136,19 +149,18 @@
 				}
 			}
 
-			& > .fig {
-				background-color: #333333;
-				flex-grow: 4;
-			}
-
-			& > .chapter {
-				flex-grow: 4;
-			}
-
+			& > .fig,
+			& > .chapter,
 			& > .buy {
 				background-color: #333333;
 				flex-grow: 4;
+				display: flex;
+				justify-content: center; /* Center content vertically */
+				align-items: center; /* Center content horizontally */
+				width: 100%; /* Fit the full width */
+				padding: var(--space-s); /* Add padding */
 			}
 		}
 	}
 </style>
+
