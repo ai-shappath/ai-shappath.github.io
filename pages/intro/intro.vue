@@ -18,9 +18,10 @@
 					<br />
 					The vision of this course is to teach you, the domain expert, what Artificial Intelligence(AI) can and cannot do.
 					You will learn fundamental AI concepts, the necessary vocabulary, and a structured way of thinking to translate your domain expertise into feasible AI solutions.
+					Our priority is to unlock information of the highest quality in a simple, concise and jargonless manner.
 					<br />
 					<br />
-					To take this course you will need a computer with internet access, time, dedication, and the will to apply AI to a specific domain of your interest. No prior knowledge about AI, complicated math or programming knowlege is required. Our priority is to unlock information of the highest quality in a simple, concise and jargonless manner.
+					You will need a computer with internet access, time, dedication, and the will to apply AI to a specific domain of your interest. No prior knowledge about AI, complicated math or programming knowlege is required.
 				</p>
 				<!-- <figure>
 					<img src="/content/c/1/drama.png" alt="" />

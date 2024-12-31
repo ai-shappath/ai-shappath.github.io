@@ -1,28 +1,28 @@
 {
 	"arr": [
 		{
-			"title": "ABOUT COURSE",
-			"path": "/intro/intro",
-			"type": "fig",
-			"index": "ABOUT COURSE",
-			"questions": [
-				""
-			]
-		},
-		{
-			"title": "ABOUT TEACHER",
-			"path": "/c1/5",
-			"type": "fig",
-			"index": "ABOUT TEACHER",
-			"questions": [
-				""
-			]
-		},
-		{
 			"title": "REFERENCES",
 			"path": "https://www.are.na/ai-shappath/channels",
 			"type": "fig",
 			"index": "REFERENCES",
+			"questions": [
+				""
+			]
+		},
+		{
+			"title": "ABOUT",
+			"path": "/intro/intro",
+			"type": "fig",
+			"index": "ABOUT",
+			"questions": [
+				""
+			]
+		},
+		{
+			"title": "TEACHER",
+			"path": "/c1/5",
+			"type": "fig",
+			"index": "TEACHER",
 			"questions": [
 				""
 			]
